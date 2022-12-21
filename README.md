@@ -1,6 +1,6 @@
 # Paint
 allows user to paint images similar to ms Paint
-see exampleOutput.png for example
+see exampleOutput.png for example (and a pretty cool drawing)
 
 user can enter hex or rbg value of desired color
 
